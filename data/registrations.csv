@@ -1,0 +1,11 @@
+registration_id,vacancy_id,session_id,student_id,mode,mentor_id,status,decision_id
+G1,V-ACT,SE1,S1,supervised,M1,confirmed,D1
+G2,V-ACT,SE2,S2,supervised,,requested,
+G3,V-ACT,SE2,S3,independent,,requested,
+G4,V-ACT,SE2,S4,supervised,,requested,
+G5,V-ACT,SE2,S5,independent,,requested,
+G6,V-CARE,SE3,S6,supervised,,requested,
+G7,V-CARE,SE3,S7,independent,,requested,
+G8,V-ORG,SE4,S8,independent,,requested,
+G9,V-CARE,SE3,S10,supervised,,requested,
+G11,V-ACT,SE2,S11,supervised,,requested,

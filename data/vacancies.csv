@@ -1,0 +1,4 @@
+vacancy_id,title,site,required_skills
+V-ACT,活动协助,社区活动中心,S-COM:-0.2;S-ORG:-0.2
+V-ORG,兴趣小组组织,社区活动中心,S-ORG:-0.1
+V-CARE,安全探访,长者服务站,S-SAFE:-0.05

@@ -1,0 +1,2 @@
+decision_id,student_id,vacancy_id,decided_at,outcome,reason,evidence_rating_ids,estimates_json
+D1,S1,V-ACT,2026-09-08,confirmed,作品 W01 沟通引导评分 78，秋季活动流程表评分 70,R01;R15,"{""S-COM"": {""estimate"": 0.73, ""component_id"": ""S-COM#2""}, ""S-ORG"": {""estimate"": 0.28, ""component_id"": ""S-ORG#1""}}"

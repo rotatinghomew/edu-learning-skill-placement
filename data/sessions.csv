@@ -1,0 +1,5 @@
+session_id,vacancy_id,date,start,end,independent_slots,supervised_slots,mentor_id
+SE1,V-ACT,2026-12-05,09:00,11:00,1,2,M1
+SE2,V-ACT,2026-12-05,10:00,12:00,1,1,M1
+SE3,V-CARE,2026-12-06,09:00,11:00,0,2,M2
+SE4,V-ORG,2026-12-06,09:00,11:00,1,0,
