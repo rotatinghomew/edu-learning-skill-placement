@@ -5,6 +5,7 @@
 ## 环境与使用
 
 需要 Python 3.11 或更高版本，无第三方依赖。运行 `python3 -m unittest discover -s tests -v` 执行测试；运行 `python3 -m learning_skill_placement.report` 查看合成数据摘要。所有记录均为本地合成数据，不包含个人信息。
+也可使用 Docker 运行：`docker build -t learning-skill-placement .`，再执行 `docker run --rm learning-skill-placement`。容器内运行测试可执行 `docker run --rm --entrypoint python3 learning-skill-placement -m unittest discover -s tests -v`。
 
 ## 现有行为
 
